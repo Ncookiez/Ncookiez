@@ -1,16 +1,15 @@
-### Hi there 👋
+# Whomst dareth approach my profile? :anger:
 
-<!--
-**Ncookiez/Ncookiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Leave immediately, lest you be exposed to the following:
 
-Here are some ideas to get you started:
+- :books: Incredibly well structured and documented Node.js respositories.
+- :trophy: The best Svelte progressive web apps you've ever seen.
+- :robot: Borderline useful discord bots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Still not convinced?
+
+Take a look at my latest project :cookie:[CookieTrack](https://cookietrack.io). That'll show ya.
+
+Or have a stroll around my simple portfolio website [here](https://ncookie.ca). And never come back.
