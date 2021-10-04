@@ -2,7 +2,7 @@
 
 ### Leave immediately, lest you be exposed to the following:
 
-- :books: Incredibly well structured and documented Node.js respositories.
+- :books: Incredibly well structured and documented Node.js repositories.
 - :trophy: The best Svelte progressive web apps you've ever seen.
 - :robot: Borderline useful discord bots.
 
