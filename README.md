@@ -12,4 +12,6 @@
 
 Take a look at my latest project :cookie:[CookieTrack](https://cookietrack.io). That'll show ya.
 
+Maybe take a look at the documentation I maintain for Snowball [here](https://snowballs.gitbook.io/snowball-docs/).
+
 Or have a stroll around my simple portfolio website [here](https://ncookie.ca). And never come back.
