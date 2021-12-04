@@ -16,4 +16,4 @@ The API that powers CookieTrack is open-source, and can be found [here](https://
 
 Maybe take a look at the documentation I maintain for Snowball [here](https://snowballs.gitbook.io/snowball-docs/).
 
-Or have a stroll around my simple portfolio website [here](https://ncookie.ca). And never come back.
+Or have a stroll around Axial's documentation [here](https://docs.axial.exchange). And never come back.
