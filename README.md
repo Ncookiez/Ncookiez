@@ -10,10 +10,10 @@
 
 ### Still not convinced?
 
-Take a look at my latest project :cookie:[CookieTrack](https://cookietrack.io). That'll show ya.
+Take a look at one of my latest projects :cookie:[CookieTrack](https://cookietrack.io). That'll show ya.
 
 The API that powers CookieTrack is open-source, and can be found [here](https://github.com/cookietrack-io/cookietrack-api).
 
 Maybe take a look at the documentation I maintain for Snowball [here](https://docs.snowball.network).
 
-Or have a stroll around Axial's documentation [here](https://docs.axial.exchange). And never come back.
+Or have a stroll around my contribution history in open-source projects like `ethereum-multicall`, `aave` or `pooltogether`. And never come back.
