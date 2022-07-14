@@ -12,7 +12,7 @@
 
 Take a look at one of my latest projects :cookie:[CookieTrack](https://cookietrack.io). That'll show ya.
 
-The API that powers CookieTrack is open-source, and can be found [here](https://github.com/cookietrack-io/cookietrack-api).
+The next bigger and better version of the app is being built - check it out [here](https://github.com/WeaverFi).
 
 Maybe take a look at the documentation I maintain for Snowball [here](https://docs.snowball.network).
 
