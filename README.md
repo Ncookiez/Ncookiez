@@ -15,6 +15,6 @@ Take a look at one of my latest projects :cookie:[CookieTrack](https://cookietra
 
 I'm currently building WeaverFi! Check it out [here](https://github.com/WeaverFi).
 
-Maybe take a look at the documentation I maintain for Snowball [here](https://docs.snowball.network).
+Maybe take a look at some documentation I wrote for Snowball [here](https://docs.snowball.network).
 
 Or have a stroll around my contribution history to find various open-source projects and DAO contributions. And never come back.
