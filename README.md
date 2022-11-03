@@ -14,8 +14,6 @@
 
 Take a look at one of my latest projects; :spider:[WeaverFi](https://github.com/WeaverFi). That'll show ya.
 
-Perhaps a glimpse of some apps I made for PoolTogether? Take [this](https://github.com/Ncookiez/pooltogether-stats)! And [this](https://github.com/Ncookiez/pooltogether-multidelegator-preview)! And [that](https://github.com/Ncookiez/pool-prize-sims)!
-
-Maybe take a look at some documentation I wrote for Snowball [here](https://docs.snowball.network).
+Perhaps a glimpse of some apps I made for the PoolTogether community? Take [this](https://github.com/Ncookiez/pooltogether-stats)! And [this](https://github.com/Ncookiez/pooltogether-multidelegator-preview)! And [that](https://github.com/Ncookiez/pool-prize-sims)!
 
 Or have a stroll around my contribution history to find even more open-source projects and DAO contributions. And never come back.
