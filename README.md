@@ -12,6 +12,6 @@
 
 ### Still not convinced?
 
-Take a look at one of my latest projects; :spider:[WeaverFi](https://github.com/WeaverFi). That'll show ya.
+Take a look at what I'm currently working on; 🌊🏆[PoolTogether Apps](https://github.com/GenerationSoftware/pooltogether-client-monorepo), or my personal project :spider:[WeaverFi](https://github.com/WeaverFi). That'll show ya.
 
 Or have a stroll around my contribution history to find many open-source projects and DAO contributions. And never come back.
